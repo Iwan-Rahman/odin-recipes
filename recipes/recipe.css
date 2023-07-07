@@ -14,6 +14,9 @@ body {
     color: rgb(45, 36, 23);
 }
 
+h1 {
+    margin-bottom: 10px;
+}
 
 img {
     height: auto;
@@ -52,4 +55,11 @@ h2 {
     margin-top: 20px;
     margin-bottom: 20px;
     text-decoration: underline;
+}
+
+a {
+    display: block;
+    color: rgb(45, 36, 23);
+    font-style: italic;
+    font-weight: 600;
 }
